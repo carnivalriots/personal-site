@@ -1,14 +1,14 @@
 @font-face {
   font-family: 'icomoon';
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+  src: url("/fonts/icomoon/icomoon.eot?srf3rx");
+  src: url("/fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("/fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("/fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("/fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Helvetica Neue';
-  src: url("../fonts/helveticaneue/helveticaneue.ttf");
+  src: url("/fonts/helveticaneue/helveticaneue.ttf");
   font-weight: normal;
   font-style: normal;
 
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: 'Helvetica Neue bold';
-  src: url("../fonts/helveticaneue/HelveticaNeuBold.ttf");
+  src: url("/fonts/helveticaneue/HelveticaNeuBold.ttf");
 }
 /* =======================================================
 *
